@@ -17,7 +17,7 @@ This structure is inspired by practical patterns used in real projects
 
 ---
 
-## ▶️ Running the Program
+## Running the Program
 
 Open IntelliJ and run:
 src/ExecutableClasses/Program.java
