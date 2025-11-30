@@ -96,7 +96,7 @@ This template is optimized for IntelliJ IDEA:
 - `out/` (compiler output) is excluded
 - `src/` is automatically recognized as the source root
 
-**Just clone → open → code.**
+**Just clone > open > code.**
 
 ---
 
